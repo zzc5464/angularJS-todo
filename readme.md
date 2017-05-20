@@ -1,4 +1,4 @@
-# 流行框架第五天：AngularJS 过滤器、服务、路由
+# AngularJS 过滤器、服务、路由
 
 
 ## TODOMVC案例
